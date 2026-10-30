@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+*.keras
+*.pth
+*.csv
+!synthetic_text_data.csv
